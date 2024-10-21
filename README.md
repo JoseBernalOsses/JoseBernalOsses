@@ -1,9 +1,9 @@
-# **[José Bernal Osses]**
+# **José Bernal Osses**
 
-**[Estudiante de bioinformática]**
+**Estudiante de bioinformática**
 
 ###  **Sobre mí**
-[Me encuentro en mi ultimo año de carrera, hago clases de robótica con arduino a jóvenes. Me gusta el desarrollo de herramientas web. Y estoy haciendo mi tésis.] 
+Me encuentro en mi ultimo año de carrera, hago clases de robótica con arduino a jóvenes. Me gusta el desarrollo de herramientas web. Y estoy haciendo mi tésis. 
 
 ###  **Tecnologías**
 * **Lenguajes:** [Python, JavaScript, C++, Arduino, HTML.]
